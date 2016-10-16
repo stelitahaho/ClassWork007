@@ -14,8 +14,6 @@ public class Main {
 		print(arr);
 		
 		print(10, 2.22, 10.5);
-
-
 	}
 	
 	public static void print(int[] arr){
